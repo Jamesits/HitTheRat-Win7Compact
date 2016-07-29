@@ -1,0 +1,1 @@
+# HitTheRat-Win7Compact
